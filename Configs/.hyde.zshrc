@@ -2,10 +2,6 @@
 # Commands to execute on startup (before the prompt is shown)
 # This is a good place to load graphic/ascii art, display system information, etc.
 
-pokego --no-title -r 1,3,6
-# fastfetch --logo-type kitty
-# fastfetch.sh
-
 #  Aliases 
 # Override aliases here or in '~/.zshrc' (already set in .zshenv)
 

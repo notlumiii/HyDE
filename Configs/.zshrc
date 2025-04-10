@@ -12,3 +12,6 @@
 
 #  This is your file 
 # Add your configurations here
+
+# [Suppress PowerLevel 10k]
+POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
