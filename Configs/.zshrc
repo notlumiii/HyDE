@@ -12,4 +12,5 @@
 
 #  This is your file 
 # Add your configurations here
-echo 'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true'
+
+'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true'
