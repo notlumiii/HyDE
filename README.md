@@ -1,10 +1,4 @@
 
-<div align = center>
-  <a href="https://discord.gg/AYbJ9MJez7">
-    <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">
-  </a>
-</div>
-
 ###### _<div align="right"><a id=-design-by-t2></a><sub>// design by t2</sub></div>_
 
 ![hyde_banner](Source/assets/hyde_banner.png)
@@ -236,16 +230,3 @@ For more information, visit [HyDE-Project/hyde-themes](https://github.com/HyDE-P
 <div align="right">
   <sub>Last edited on: 27/02/2025<span id="last-edited"></span></sub>
 </div>
-
-<a id="star_history"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=STARS" width="450"/>
-
----
-
-<a href="https://star-history.com/#hyde-project/hyde&hyde-project/hyde-gallery&hyde-project/hyde-themes&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hyde-project/hyde&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hyde-project/hyde&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hyde-project/hyde&type=Timeline" />
- </picture>
-</a>
