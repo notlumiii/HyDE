@@ -32,7 +32,6 @@ spicetify-cli                                          # cli to customize spotif
 
 # --------------------------------------------------- // Shell
 # oh-my-zsh-git|zsh                                      # Optional plugin manager for zsh
-# pokemon-colorscripts-git|zsh                           # display pokemon sprites (optional)
 
 # --------------------------------------------------- // Editor
 # vscodium                                              # Full oss text editor
