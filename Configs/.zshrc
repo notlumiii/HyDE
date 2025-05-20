@@ -10,6 +10,8 @@
 #  Aliases 
 # Add aliases here
 
+# rawr
+
 #  This is your file 
 # Add your configurations here
 
