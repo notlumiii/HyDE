@@ -23,7 +23,6 @@ mangohud                                               # system performance over
 # lutris                                               # Lutris is an open source gaming platform for Linux
 
 # --------------------------------------------------- // Music
-cava                                                   # audio visualizer
 spotify                                                # proprietary music streaming service
 spicetify-cli                                          # cli to customize spotify client
 
