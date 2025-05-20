@@ -77,6 +77,7 @@ zsh-theme-powerlevel10k-git|zsh                        # theme for zsh
 eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
+cava                                                   # Visualizer For Music
 
 # --------------------------------------------------- // HyDE
 
